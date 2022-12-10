@@ -1,4 +1,4 @@
-# Twitter tweeted sentiment analysis (using NLP) 
+# Twitter tweetes sentiment analysis (using NLP) 
 Asynchronous pipeline project that using reactive programming to process tweets
 in real time and analyze the sentiment of the tweets using NLP.
 
