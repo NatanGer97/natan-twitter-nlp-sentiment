@@ -24,7 +24,7 @@ and check what the public opinion about them.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone git@github.com:NatanGer97/natan-twitter-nlp-sentiment.git
 ```
 
 Go to the project directory
