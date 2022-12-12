@@ -1,6 +1,14 @@
 # Twitter tweets sentiment analysis (using NLP) 
 Asynchronous pipeline project that using reactive programming to process tweets
 in real time and analyze the sentiment of the tweets using NLP.
+## Screenshots
+
+![OneFilter](src/main/resources/Screenshots/OneFilter.png)
+
+![Companies](src/main/resources/Screenshots/Companies.png)
+
+![Results](src/main/resources/Screenshots/Results.png)
+
 
 ## Use case
 Analyze the sentiment of tweets that are related 
