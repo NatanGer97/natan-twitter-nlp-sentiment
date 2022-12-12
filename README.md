@@ -1,9 +1,9 @@
-# Twitter tweeted sentiment analysis (using NLP) 
+# Twitter tweets sentiment analysis (using NLP) 
 Asynchronous pipeline project that using reactive programming to process tweets
 in real time and analyze the sentiment of the tweets using NLP.
 
 ## Use case
-The use case is to analyze the sentiment of tweets that are related 
+Analyze the sentiment of tweets that are related 
 to a specific keyword (topic), or filtered by a specific keywords for example -
 3 names of companies in order to compare the sentiment of the tweets about them, 
 and check what the public opinion about them.
@@ -24,7 +24,7 @@ and check what the public opinion about them.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone git@github.com:NatanGer97/natan-twitter-nlp-sentiment.git
 ```
 
 Go to the project directory
