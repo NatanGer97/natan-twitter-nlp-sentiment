@@ -72,13 +72,3 @@ java -jar sentiment-0.0.1-SNAPSHOT.jar
     docker-compose down
   ```
 
-## Screenshots
-
-![OneFilter](src/main/resources/Screenshots/OneFilter.png)
-![Companies](src/main/resources/Screenshots/Companies.png)
-![Results](src/main/resources/Screenshots/Results.png)
-
-
-
-
-
